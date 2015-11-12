@@ -1,2 +1,4 @@
-# toshko-sim
-an AI console app implementation of Toshko
+toshko-sim
+==========
+
+An artificial intelligence implementation of a colleague of mine.
