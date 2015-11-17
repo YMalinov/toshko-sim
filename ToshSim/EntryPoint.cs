@@ -18,20 +18,24 @@ namespace toshko_simulator
             "май ша са бийм",
             "така няма да стане",
             "аре да се вчешем",
-            "аз съм тошко"
+            "аз съм тошко",
+            "и ся кво праим",
+            "време е"
         };
 
         private static readonly string[] ToshkoPhrasesEnglishized = 
         {
-            "tee pa see mnoo ubav",
+            "tee pa see mnooo ohbaph",
             "tee pa see Alen Delon",
             "nay say pryeeeee",
             "she teey shchupya prast chaytata",
             "array da peeeeeeem",
             "mai she say beeeeeeeem",
             "tacka nyama da stanyee",
-            "array the saa vcheshem",
-            "as sam tooushe kou"
+            "array the say ffcheshem",
+            "as sam toyshcko",
+            "e sya cffo pryeem",
+            "vreyymey e"
         };
 
         private static readonly Random Rnd = new Random();
